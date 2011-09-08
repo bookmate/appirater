@@ -57,7 +57,7 @@ extern NSString *const kAppiraterDeclinedToRate;
  This is the message your users will see once they've passed the day+launches
  threshold.
  */
-#define APPIRATER_MESSAGE				NSLocalizedString(@"If you enjoy using this app, please rate it.", "Appirater")]
+#define APPIRATER_MESSAGE				NSLocalizedString(@"If you enjoy using this app, please rate it.", "Appirater")
 
 /*
  This is the title of the message alert that users will see.
